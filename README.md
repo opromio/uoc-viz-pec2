@@ -13,3 +13,8 @@ En este repositorio se encuentran las figuras con las 3 técnicas a utilizar:
 ## Box Plot of Sepal & Petal characeristics in the Iris dataset
 
 ![Sepal & Petal characeristics in the Iris dataset](Iris-BoxPlot.png)
+
+
+## Diabetis over average parameters UpSet visualization 
+
+![Diabetis over average parameters UpSet](Diabetes-UpSetPlot.png)
