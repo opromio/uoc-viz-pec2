@@ -17,4 +17,4 @@ En este repositorio se encuentran las figuras con las 3 técnicas a utilizar:
 
 ## Diabetis over average parameters UpSet visualization 
 
-![](Diabetes-UpSetPlot.png)
+![](Diabetes-UpSet.png)
