@@ -15,6 +15,6 @@ En este repositorio se encuentran las figuras con las 3 técnicas a utilizar:
 ![](Iris-BoxPlot.png)
 
 
-## Diabetis over average parameters UpSet visualization 
+## Diabetes over average parameters UpSet visualization 
 
 ![](Diabetes-UpSet.png)
